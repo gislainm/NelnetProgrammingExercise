@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- <TargetFramework>netcoreapp2.1</TargetFramework> -->
+    <!-- updating .net version since .net2.1 is not supported on mac arm64 that I am using for this exercise. -->
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
